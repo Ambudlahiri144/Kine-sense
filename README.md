@@ -14,6 +14,11 @@ A full-stack Python application for video analytics, supporting both uploaded an
 - **Admin panel** for backend management [Admin Portal](http://localhost:8000/admin/).
 
 ---
+## Architecture Diagram
+
+![Diagram here](../Architecture_diagram_k.png)
+
+---
 
 ## Tech Stack
 
