@@ -16,7 +16,7 @@ A full-stack Python application for video analytics, supporting both uploaded an
 ---
 ## Architecture Diagram
 
-![Diagram here](../Architecture_diagram_k.png)
+![Diagram here](./Architecture_diagram_k.png)
 
 ---
 
